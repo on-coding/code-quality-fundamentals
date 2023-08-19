@@ -1,0 +1,12 @@
+site_name: Code Quality Fundamentals Guide
+
+theme:
+  name: material
+
+nav:
+  - Introduction: index.md
+  - DRY: principles/dry.md
+    
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
