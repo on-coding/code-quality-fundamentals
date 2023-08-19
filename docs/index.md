@@ -1,4 +1,4 @@
-There is no set of rules for making the right decision, there are always tradeoffs that we must weight up. However there are principles that it is helpful to be aware of.
+There is no set of rules for making the right decision, there are always tradeoffs that we must weigh up. However there are principles that it is helpful to be aware of.
 
 This guide is intended as a concise explanation of common code quality principles. 
 
@@ -16,7 +16,7 @@ The qualities of a good codebase are:
 You will come across the sentiment of "We should be spending time on delivering value to users not on code quality". Although it's certainly true that we shouldn't spend too much time trying to make our code perfect, in general this is a false dichotomy since:
 
 - Code quality helps, not hinders, delivering value quickly.
-- Most of time writing good code doesn't take much longer than bad code.
+- Most of the time writing good code doesn't take much longer than bad code.
 
 The impact of poor code quality can be quite extreme, I've worked on projects where new features that should have taken a day consistently took weeks due to issues with the codebase.
 
